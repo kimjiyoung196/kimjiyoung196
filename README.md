@@ -7,7 +7,8 @@
   </a>
 </div>
 <!--내용 부분-->
-<h3 align="center">:반짝임: Tech Stack :반짝임:</h3>
+<h3 align="center">:![image](https://github.com/user-attachments/assets/d933d466-8b6a-4ad2-b829-6a8eb862b7a8)
+: Tech Stack :반짝임:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
