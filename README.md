@@ -3,7 +3,7 @@
 <!--타이틀 부분-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Minseok's+Github;&font=Fira+Code&color=28a745" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Jiyoung's+Github;&font=Fira+Code&color=28a745" />
   </a>
 </div>
 <!--내용 부분-->
